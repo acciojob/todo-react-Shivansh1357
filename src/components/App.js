@@ -6,7 +6,7 @@ import Todo from "./Todo";
 const App = () => {
   return (
     <div>
-        <to-do/>
+        <Todo/>
     </div>
   )
 }
